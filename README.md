@@ -1,10 +1,9 @@
 # Hi , I'm João Pedro Louro
 
-**Web Developer in Progress...**  
+**Front End Developer**  
 
 **I’m learning** to **build clean** and **functional web interfaces** while strengthening my fundamentals in **front-end development**.
 I focus on **structure, consistency, and continuous improvement, with a growing interest in security-aware development**.
-<p align="right"><i>📧 How to reach me joapedrolouro@gmail.com</i></p>
 
 
 <h3>Interests</h3>
