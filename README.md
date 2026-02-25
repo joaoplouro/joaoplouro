@@ -23,13 +23,5 @@ Consistency, structure, and continuous improvement drive my work — with a grow
 - Understanding systems, tools and how technology works
 - Cybersecurity fundamentals and digital safety
 - Continuous learning and self-improvement
-
-
-
-<h2 align="center">GitHub Stats</h2>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=joaoplouro&theme=dark&hide_border=true" />
-</p>
-
-
+<br>
 <p align="center">Always open to collaborations, partnerships, and cool ideas.</p>
