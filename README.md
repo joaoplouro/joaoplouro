@@ -1,25 +1,35 @@
-# Hi , I'm João Pedro Louro
+# Hi , I'm João Louro
 
-**Front End Developer**  
-
-**I’m learning** to **build clean** and **functional web interfaces** while strengthening my fundamentals in **front-end development**.
-I focus on **structure, consistency, and continuous improvement, with a growing interest in security-aware development**.
+**Front-end Developer** · Learning by building
 
 
-<h3>Interests</h3>
-• Web development and modern interfaces<br>
-• Understanding systems, tools and how technology works<br>
-• Cybersecurity fundamentals and digital safety<br> 
-• Continuous learning and self-improvement
+I focus on crafting clean, functional web interfaces with a strong foundation in front-end development.
+Consistency, structure, and continuous improvement drive my work — with a growing interest in security-aware development.
 
 
-<h3>Tech Stack</h3>
-<p>
-  <img src="https://img.shields.io/badge/HTML-black?style=flat&logo=html5&logoColor=orange" />
-  <img src="https://img.shields.io/badge/CSS-black?style=flat&logo=css&logoColor=blue" />
-  <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=yellow" />
+
+### Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-black?style=flat&logo=html5&logoColor=orange)
+![CSS](https://img.shields.io/badge/CSS-black?style=flat&logo=css&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=yellow)
+![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=orange)
+
+
+
+### Interests
+
+- Web development and modern interfaces
+- Understanding systems, tools and how technology works
+- Cybersecurity fundamentals and digital safety
+- Continuous learning and self-improvement
+
+
+
+<h2 align="center">GitHub Stats</h2>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=joaoplouro&theme=dark&hide_border=true" />
 </p>
 
-#
-  
- <b>Always open to collaborations, partnerships, and cool ideas</b>
+
+<p align="center">Always open to collaborations, partnerships, and cool ideas.</p>
