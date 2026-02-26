@@ -1,11 +1,8 @@
-# Hi , I'm João Louro
-
-**Front-end Developer** · Learning by building
-
-
-I focus on crafting clean, functional web interfaces with a strong foundation in front-end development.
-Consistency, structure, and continuous improvement drive my work — with a growing interest in security-aware development.
-
+<h1 align="center">Hi , I'm João Louro</h1>
+<br>
+<h2 align="center">Front-end Developer · Learning by building</h2>
+<p align="center">I focus on crafting clean, functional web interfaces with a strong foundation in front-end development.
+Consistency, structure, and continuous improvement drive my work with a growing interest in security-aware development.</p>
 
 
 ### Tech Stack
@@ -16,7 +13,6 @@ Consistency, structure, and continuous improvement drive my work — with a grow
 ![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=orange)
 
 
-
 ### Interests
 
 - Web development and modern interfaces
@@ -24,4 +20,4 @@ Consistency, structure, and continuous improvement drive my work — with a grow
 - Cybersecurity fundamentals and digital safety
 - Continuous learning and self-improvement
 <br>
-<p align="center">Always open to collaborations, partnerships, and cool ideas.</p>
+<p align="right">Always open to collaborations, partnerships, and cool ideas.</p>
