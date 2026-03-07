@@ -1,5 +1,6 @@
 <div align="center">
 
+
 ```
      ██╗ ██████╗  █████╗  ██████╗     ██╗      ██████╗ ██╗   ██╗██████╗  ██████╗ 
      ██║██╔═══██╗██╔══██╗██╔═══██╗    ██║     ██╔═══██╗██║   ██║██╔══██╗██╔═══██╗
@@ -19,10 +20,10 @@
 └─────────────────────────────────────────────────────┘
 ```
 
-[![Work with Me](https://img.shields.io/badge/◎_Website-000000?style=for-the-badge&logoColor=white)](https://joaoplouro.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/in_linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoplouro/)
-[![Instagram](https://img.shields.io/badge/◈_instagram-E4405F?style=for-the-badge&logoColor=white)](https://www.instagram.com/joao.plouro)
-[![YouTube](https://img.shields.io/badge/▶_youtube-FF0000?style=for-the-badge&logoColor=white)](https://www.youtube.com/@joao.plouro)
+[![Work with Me](https://img.shields.io/badge/Website-000000?style=for-the-badge&logoColor=white)](https://joaoplouro.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoplouro/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logoColor=white)](https://www.instagram.com/joao.plouro)
+[![YouTube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logoColor=white)](https://www.youtube.com/@joao.plouro)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=joaoplouro&style=for-the-badge&color=00ff41&label=VISITORS)
 
@@ -49,7 +50,6 @@ const joao = {
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
