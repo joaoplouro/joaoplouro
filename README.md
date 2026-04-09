@@ -1,25 +1,3 @@
-<div align="center">
-
-
-```
-     ██╗ ██████╗  █████╗  ██████╗     ██╗      ██████╗ ██╗   ██╗██████╗  ██████╗ 
-     ██║██╔═══██╗██╔══██╗██╔═══██╗    ██║     ██╔═══██╗██║   ██║██╔══██╗██╔═══██╗
-     ██║██║   ██║███████║██║   ██║    ██║     ██║   ██║██║   ██║██████╔╝██║   ██║
-██   ██║██║   ██║██╔══██║██║   ██║    ██║     ██║   ██║██║   ██║██╔══██╗██║   ██║
-╚█████╔╝╚██████╔╝██║  ██║╚██████╔╝    ███████╗╚██████╔╝╚██████╔╝██║  ██║╚██████╔╝
- ╚════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝     ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝
-```
-
-```bash
-┌─────────────────────────────────────────────────────┐
-│  > initializing profile...                          │
-│  > loading joão louro...          [██████████] 100% │
-│  > location: portugal 🇵🇹                           │
-│  > role: web developer                              │
-│  > status: building cool stuff ✦                   │
-└─────────────────────────────────────────────────────┘
-```
-
 [![Work with Me](https://img.shields.io/badge/Website-000000?style=for-the-badge&logoColor=white)](https://www.hukastudio.com/)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoplouro/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logoColor=white)](https://www.instagram.com/joao.plouro)
@@ -28,18 +6,6 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=joaoplouro&style=for-the-badge&color=00ff41&label=VISITORS)
 
 </div>
-
-
-```javascript
-const joao = {
-  role      : "Web Developer",
-  focus     : ["Frontend", "UI/UX", "Design"],
-  stack     : ["HTML", "CSS", "JS", "React", "Figma"],
-  mindset   : "Design is the first layer of functionality.",
-  currently : "Crafting interfaces humans enjoy.",
-  openTo    : ["Freelance", "Collabs", "Cool ideas"],
-};
-```
 
 
 <div align="center">
