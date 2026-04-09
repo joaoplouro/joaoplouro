@@ -1,8 +1,9 @@
+<div align="center">
+  
 [![Work with Me](https://img.shields.io/badge/Website-000000?style=for-the-badge&logoColor=white)](https://www.hukastudio.com/)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoplouro/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logoColor=white)](https://www.instagram.com/joao.plouro)
 [![YouTube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logoColor=white)](https://www.youtube.com/@joao.plouro)
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=joaoplouro&style=for-the-badge&color=00ff41&label=VISITORS)
 
 </div>
