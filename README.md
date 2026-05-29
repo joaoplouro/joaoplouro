@@ -1,6 +1,5 @@
 <div align="center">
   
-[![Work with Me](https://img.shields.io/badge/Website-000000?style=for-the-badge&logoColor=white)]([https://www.joaoplouro.com/])
 ![Visitor Count](https://komarev.com/ghpvc/?username=joaoplouro&style=for-the-badge&color=00ff41&label=VISITORS)
 
 </div>
